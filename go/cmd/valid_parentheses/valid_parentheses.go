@@ -1,4 +1,4 @@
-package cmd
+package valid_parentheses
 
 import (
 	"container/list"
